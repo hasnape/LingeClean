@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /.htpasswd
+Disallow: /.htaccess
+Sitemap: https://lingeclean.simdif.com/sitemap.xml
